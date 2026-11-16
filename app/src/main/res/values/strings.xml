@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string name="hello_text">Hello Android!</string>
+    <string name="hello_subtitle">我的第一个 Android 工程</string>
+    <string name="btn_hello">点击我</string>
+    <string name="toast_hello">你好，Android！这是第 %1$d 次点击</string>
+    <string name="click_count">已点击 %1$d 次</string>
+    <string name="device_info">运行环境：Android %1$s · %2$s</string>
+</resources>
